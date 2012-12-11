@@ -50,3 +50,10 @@ rm -rf %buildroot
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/README.txt
 %{ruby_gemdir}/cache/%{oname}-%{version}.gem
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
+
+
+%changelog
+* Sun Oct 10 2010 Rémy Clouard <shikamaru@mandriva.org> 3.0.5-1mdv2011.0
++ Revision: 584526
+- import rubygem-sexp_processor
+
