@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    3.0.5
-Release:    %mkrel 1
+Release:    2
 Summary:    Branches from ParseTree bringing all the generic sexp processing tools with it
 Group:      Development/Ruby
 License:    MIT
