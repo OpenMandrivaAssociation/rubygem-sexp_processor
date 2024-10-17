@@ -6,7 +6,7 @@ Release:    2
 Summary:    Branches from ParseTree bringing all the generic sexp processing tools with it
 Group:      Development/Ruby
 License:    MIT
-URL:        http://rubyforge.org/projects/parsetree/
+URL:        https://rubyforge.org/projects/parsetree/
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}
 Requires:   rubygems
